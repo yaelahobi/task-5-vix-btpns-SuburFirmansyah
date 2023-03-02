@@ -1,4 +1,4 @@
-module task-5-vix-btpns-Yoga_Cahya_Romadhon
+module task-5-vix-btpns-SuburFirmansyah
 
 go 1.17
 
